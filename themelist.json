@@ -1,0 +1,48 @@
+{
+	"presets": {
+		"Full": [
+			["anime", "custom", "ninjaanime", "spacecitizen", "politics2", "retro"],
+			["ninja", "chibi", "vietnam", "action", "animal", "space"],
+			["fullenergy", "christmas", "politic", "stick", "street", "yme"],
+			["ben10", "chowder", "domo", "bunny", "startrek", "monkeytalk"],
+			["akon", "monstermsh", "underdog", "sf", "toonadv", "willie"]
+		],
+		"Compact": [
+			["anime", "custom", "ninjaanime", "spacecitizen", "politics2"],
+			["ninja", "chibi", "action", "animal", "space"],
+			["retro", "domo", "fullenergy", "startrek", "stick"]
+		]
+	},
+	"list": [
+		{"studio": "anime", "cc": "anime", "name": "Anime"},
+		{"studio": "custom", "cc": "family", "name": "Comedy World"},
+		{"studio": "ninjaanime", "cc": "ninjaanime", "name": "Ninja Anime"},
+		{"studio": "spacecitizen", "cc": "spacecitizen", "name": "Space Citizens"},
+		{"studio": "politics2", "name": "White Houserz"},
+		{"studio": "retro", "name": "Cartoon Classics"},
+		{"studio": "ninja", "cc": "ninja", "name": "Chibi Ninjas"},
+		{"studio": "chibi", "cc": "chibi", "name": "Chibi Peepz"},
+		{"studio": "vietnam", "cc": "cc2", "name": "Jungle Warfare"},
+		{"studio": "action", "cc": "cc2", "name": "Lil' Peepz"},
+		{"studio": "animal", "cc": "cc2", "name": "Lil' Petz"},
+		{"studio": "space", "cc": "cc2", "name": "Space Peepz"},
+		{"studio": "fullenergy", "name": "Full Energy"},
+		{"studio": "christmas", "name": "Holiday & Seasonal"},
+		{"studio": "politic", "name": "Politics & Celebrity"},
+		{"studio": "stick", "name": "Stick Figure"},
+		{"studio": "street", "name": "Street"},
+		{"studio": "yme", "name": "yme"},
+		{"studio": "ben10", "name": "Ben 10"},
+		{"studio": "chowder", "name": "Chowder"},
+		{"studio": "domo", "name": "Domo"},
+		{"studio": "bunny", "name": "It's Happy Bunny"},
+		{"studio": "startrek", "name": "Star Trek Quogs"},
+		{"studio": "monkeytalk", "name": "SuperRica & Rashy"},
+		{"studio": "akon", "name": "AKON"},
+		{"studio": "monstermsh", "name": "Monsters Mayhem"},
+		{"studio": "underdog", "name": "Saturday Morning TV"},
+		{"studio": "sf", "name": "Street Fighter"},
+		{"studio": "toonadv", "cc": "cctoonadventure", "name": "Toon Adventure"},
+		{"studio": "willie", "name": "Willie Nelson"}
+	]
+}
